@@ -38,3 +38,6 @@ export { auth, db }
 
 Don't forget to add the dependencies to your package.json file in the root of your project.
 After that, you're good to go. Extend the app to add more functionality like changing password, for example
+
+## Sample Screenshot
+![sample screenshot](read-me-img/smart-cart-shopping.PNG 'Sample screenshot')
