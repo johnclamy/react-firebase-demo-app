@@ -1,0 +1,14 @@
+.signin-page-container {
+  margin: 3em 1em 0 1em;
+  padding: 1.5em .5em;
+  background-color: #FFFFF0;
+  text-align: center;
+  line-height: 40px;
+}
+
+@media screen and (min-width:450px) {
+  .signin-page-container {
+    width: 450px;
+    margin: 0 auto;
+  }
+}

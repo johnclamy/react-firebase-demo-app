@@ -1,0 +1,14 @@
+.app-navbar {
+  width: 100%;
+  margin: .75em 0;
+}
+
+.app-nav-list {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+}
+
+.app-nav-list-item {
+  margin: 0 .75em;
+}

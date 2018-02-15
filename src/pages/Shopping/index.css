@@ -1,0 +1,18 @@
+.shopping-page-container {
+  margin: 1em;
+}
+
+.cart-items-container {
+  margin-top: .5em;
+}
+
+.cart-editor-container {
+  margin: .5em;
+}
+
+@media screen and (min-width:450px) {
+  .shopping-page-container {
+    width: 450px;
+    margin: 0 auto;
+  }
+}

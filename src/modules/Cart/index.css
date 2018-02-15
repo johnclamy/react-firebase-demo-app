@@ -1,0 +1,15 @@
+.shopping-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: .25em;
+  background-color: #FFFFF0;
+  border: 1px solid #DA70D6;
+  border-radius: 1em;
+  padding: .5em 1em;
+}
+
+.remove-button {
+  padding-top: .25em;
+  cursor: pointer;
+}

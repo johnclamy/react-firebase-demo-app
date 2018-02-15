@@ -1,0 +1,74 @@
+input.app-signup {
+  border: 1px solid #9932CC;
+  height: 2.5em;
+  width: 100%;
+  color: #696969;
+  font-weight: bold;
+  font-style: italic;
+  padding-left: .5em;
+}
+input.app-signup:focus {
+  border: 2px solid #DA70D6;
+  background-color: #FFFAF0;
+}
+
+input.app-signup::-webkit-input-placeholder {
+  color: #DA70D6;
+}
+
+input.app-signup::-moz-placeholder {
+  color: #DA70D6;
+}
+
+input.app-signup:-ms-input-placeholder {
+  color: #DA70D6;
+}
+
+input.app-signup:-moz-placeholder {
+  color: #DA70D6;
+}
+
+.app-signup-button {
+  margin: .75em 0 0 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  font-family: inherit;
+  font-size: 1em;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.app-signup-button::-moz-focus-inner {
+  padding: 0;
+  border: 0;
+}
+
+button.app-signup-button span {
+  display: block;
+}
+
+button.app-signup-button > span {
+  color: #FFFFFF;
+  font-weight: bolder;
+  border: 1px solid #9932CC;
+  border-radius: 2;
+  padding: .2em .3em;
+  width: 7.8em;
+  height: 2.6em;
+}
+
+button.app-signup-button > span > span {
+  border: none;
+  border-radius: 1;
+  padding: .25em;
+}
+
+button.app-signup-button > span {
+  background: #9932CC;
+  background-image : -moz-linear-gradient(#DCDCDC,#DA70D6);
+  background-image : -ms-linear-gradient(#DCDCDC,#DA70D6);
+  background-image : -o-linear-gradient(#DCDCDC,#DA70D6);
+  background-image : -webkit-linear-gradient(#DCDCDC,#DA70D6);
+  background-image : linear-gradient(#DCDCDC,#DA70D6);
+}

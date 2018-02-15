@@ -1,0 +1,49 @@
+.landing-page-container {
+  margin: 3em 1em 0 1em;
+  padding: 1.5em .5em;
+  background-color: #FFFFF0;
+  text-align: center;
+}
+
+.landing-page-header {
+  margin-bottom: 1.5em;
+  line-height: 17px;
+}
+
+.landing-page-header span {
+  font-size: .7em;
+  font-style: italic;
+  font-weight: 100;
+}
+
+.landing-page-title {
+  color: #9932CC;
+  word-spacing: .04em;
+  letter-spacing: .03em;
+}
+
+.landing-page-shoutout-title {
+  font-size: 1.3em;
+  margin-bottom: .5em;
+}
+
+.landing-page-shoutout-list {
+  list-style-type: none;
+}
+
+.landing-page-shoutout-list li {
+  margin-left: 1em;
+  line-height: 29px;
+}
+
+.landing-page-shoutout-list-item {
+  display: flex;
+  justify-content: center;
+}
+
+@media screen and (min-width:450px) {
+  .landing-page-container {
+    width: 450px;
+    margin: 0 auto;
+  }
+}

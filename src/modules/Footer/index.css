@@ -1,0 +1,16 @@
+.app-footer {
+  width: 100%;
+  font-size: .8em;
+  text-align: center;
+}
+
+.app-footer a {
+  color: #FFFFF0;
+}
+
+.app-footer a:link,
+.app-footer a:visited,
+.app-footer a:hover,
+.app-footer a:active {
+  text-decoration: none;
+}

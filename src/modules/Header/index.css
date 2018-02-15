@@ -1,0 +1,14 @@
+header.app-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #FFFFF0;
+
+}
+
+.app-header-title a {
+  font-family: 'Sniglet', cursive;
+  font-size: 1.5em;
+  color: #9932CC;
+}
+

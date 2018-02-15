@@ -1,0 +1,27 @@
+.account-page-container {
+  margin: 3em 1em 0 1em;
+  padding: 1.5em .5em;
+  background-color: #FFFFF0;
+  text-align: center;
+}
+
+.account-page-title {
+  color: #9932CC;
+  word-spacing: .04em;
+  letter-spacing: .03em;
+  margin-bottom: 1.5em;
+}
+
+.account-page-shoutout {
+  font-size: 1.1em;
+  font-weight: bold;
+  color: #FF6347;
+  margin: 0 1.5em 2em 1.5em;
+}
+
+@media screen and (min-width:450px) {
+  .account-page-container {
+    width: 450px;
+    margin: 0 auto;
+  }
+}
