@@ -1,7 +1,7 @@
 # Smart Cart - React & Firebase demo app
 ## Summary
 
-Smart Cart is a simple *CRUD* app. It was created with the intention to explore the minimum requirements  needed to setup a **[React.js](https://reactjs.org/)** app and integrate it with the **[Firebase](https://firebase.google.com/)** back-end solution.
+Smart Cart is a simple *CRUD* app. It was created with the intention to explore the minimum requirements  needed to setup a **[React.js](https://reactjs.org/)** app and integrate it with the **[Firebase](https://firebase.google.com/)** :fire: back-end solution.
 
 Smart Cart  can be used as a web based grocery shopping list tool. It lets you add items to your *shopping cart* on your mobile device when on the go. You can also use it from the comfort of your home when planning your shopping list on a laptop's web browser.
 
@@ -37,6 +37,10 @@ export { auth, db }
 ```
 
 Don't forget to add the dependencies to your package.json file in the root of your project.
-After that, you're good to go. Extend the app to add more functionality like changing password, for example.
+After that, you're good to go :relaxed:
+Extend the app to add more functionality like changing password, for example :+1:
+
+## Sample Screenshot
+![Sample screenshot](read-me-img/smart-cart-shopping.PNG)
 ***
 ##### Licensed under the [MIT License](LICENSE)
