@@ -37,15 +37,6 @@ export { auth, db }
 ```
 
 Don't forget to add the dependencies to your package.json file in the root of your project.
-<<<<<<< HEAD
 After that, you're good to go. Extend the app to add more functionality like changing password, for example.
 ***
 ##### Licensed under the [MIT License](LICENSE)
-||||||| merged common ancestors
-After that, you're good to go. Extend the app to add more functionality like changing password, for example
-=======
-After that, you're good to go. Extend the app to add more functionality like changing password, for example
-
-## Sample Screenshot
-![sample screenshot](read-me-img/smart-cart-shopping.PNG 'Sample screenshot')
->>>>>>> 5e7877428a0d987936bb1b05acc879a2a009c1e8
